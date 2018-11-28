@@ -4,11 +4,11 @@
             Based on: PaulSec Send-Mail
             Author  :  compsecdirect.com
            
-            Date    : 13-July-2018 
+            Date    : 28-Nov-2018 
             File    : ipme.ps1 
             Purpose : Get Static Ip adress of the Internet, email when different
              
-            Version : 1 
+            Version : 2 
 #> 
 
     $url = "https://www.canihazip.com/s"
