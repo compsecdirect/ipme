@@ -25,3 +25,7 @@ Need to use gmail application passwords (2025)
 3. When different, an email is sent to a recipient. This script uses gmail to send that email.
 4. After the email is sent, the ip-old.txt is updated with ip.txt
 
+## Scheduled run
+Make a scheduled task, either daily or hourly, based on your needs.  
+![image](https://github.com/user-attachments/assets/dc0f880a-a086-47d4-9bf6-1c773edb2717)  
+If you know the device is tied to power and network, the trigger can be on start up.
