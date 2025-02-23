@@ -11,7 +11,7 @@
             Version : 2 
 #> 
 
-    $url = "https://www.canihazip.com/s"
+    $url = "https://whatismyip.akamai.com/"
     $HTML = Invoke-WebRequest -Uri $URl
     $IP= $html.Content
     $IP | Out-File "C:\Users\name\Documents\ip.txt"
